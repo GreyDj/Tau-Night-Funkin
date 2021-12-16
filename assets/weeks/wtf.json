@@ -1,0 +1,25 @@
+{
+	"storyName": "???",
+	"hideFreeplay": true,
+	"weekBackground": "halloween",
+	"weekBefore": "?",
+	"startUnlocked": false,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"???",
+			"monster",
+			[
+				107,
+				113,
+				253
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "???"
+}
