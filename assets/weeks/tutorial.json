@@ -1,0 +1,25 @@
+{
+	"storyName": "Funny Tutorial with Funny Fox",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Tutorial",
+			"gf",
+			[
+				192,
+				115,
+				60
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Tutorial"
+}

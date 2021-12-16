@@ -1,0 +1,43 @@
+{
+	"storyName": "Hey hey hey its greydj",
+	"hideFreeplay": false,
+	"weekBackground": "halloween",
+	"weekBefore": "week1",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"spooky",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Spookeez",
+			"spooky",
+			[
+				147,
+				147,
+				147
+			]
+		],
+		[
+			"South",
+			"spooky",
+			[
+				147,
+				147,
+				147
+			]
+		],
+		[
+			"Monster",
+			"monster",
+			[
+				107,
+				113,
+				253
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Week 2"
+}
