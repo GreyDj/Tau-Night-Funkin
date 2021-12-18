@@ -2,8 +2,8 @@
 	"animations": [
 		{
 			"offsets": [
-				7,
-				0
+				4,
+				-17
 			],
 			"loop": false,
 			"anim": "idle",
@@ -13,8 +13,8 @@
 		},
 		{
 			"offsets": [
-				0,
-				0
+				52,
+				-22
 			],
 			"loop": false,
 			"fps": 24,
@@ -24,8 +24,8 @@
 		},
 		{
 			"offsets": [
-				0,
-				0
+				52,
+				-23
 			],
 			"loop": false,
 			"fps": 24,
@@ -35,8 +35,8 @@
 		},
 		{
 			"offsets": [
-				0,
-				0
+				-14,
+				31
 			],
 			"loop": false,
 			"fps": 24,
@@ -46,8 +46,8 @@
 		},
 		{
 			"offsets": [
-				0,
-				0
+				-12,
+				22
 			],
 			"loop": false,
 			"fps": 24,
@@ -57,8 +57,8 @@
 		},
 		{
 			"offsets": [
-				0,
-				0
+				-21,
+				-20
 			],
 			"loop": false,
 			"fps": 24,
@@ -68,8 +68,8 @@
 		},
 		{
 			"offsets": [
-				0,
-				0
+				-21,
+				-16
 			],
 			"loop": false,
 			"fps": 24,
@@ -80,7 +80,7 @@
 		{
 			"offsets": [
 				0,
-				0
+				-64
 			],
 			"loop": false,
 			"fps": 24,
@@ -91,7 +91,7 @@
 		{
 			"offsets": [
 				0,
-				0
+				-71
 			],
 			"loop": false,
 			"fps": 24,
@@ -103,8 +103,8 @@
 	"no_antialiasing": true,
 	"image": "characters/bfPixel",
 	"position": [
-		0,
-		350
+		-220,
+		240
 	],
 	"healthicon": "bf-pixel",
 	"flip_x": true,
@@ -114,9 +114,9 @@
 		75
 	],
 	"camera_position": [
-		50,
-		-60
+		-130,
+		90
 	],
 	"sing_duration": 4,
-	"scale": 6
+	"scale": 0.8
 }

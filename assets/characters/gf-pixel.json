@@ -70,20 +70,20 @@
 	"no_antialiasing": true,
 	"image": "characters/gfPixel",
 	"position": [
-		0,
-		0
+		-300,
+		-180
 	],
 	"healthicon": "gf",
 	"flip_x": false,
 	"healthbar_colors": [
-		165,
-		0,
-		77
+		192,
+		115,
+		60
 	],
 	"camera_position": [
 		-20,
 		80
 	],
 	"sing_duration": 4,
-	"scale": 5.99999999999999
+	"scale": 0.79999999999999
 }
