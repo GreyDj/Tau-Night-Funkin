@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Monster.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="monster idle0000" x="1302" y="659" width="424" height="583" frameX="-50" frameY="-80" frameWidth="488" frameHeight="663"/>
+	<SubTexture name="monster idle0001" x="1302" y="659" width="424" height="583" frameX="-50" frameY="-80" frameWidth="488" frameHeight="663"/>
+	<SubTexture name="monster idle0002" x="1726" y="659" width="424" height="599" frameX="-50" frameY="-64" frameWidth="488" frameHeight="663"/>
+	<SubTexture name="monster idle0003" x="1726" y="659" width="424" height="599" frameX="-50" frameY="-64" frameWidth="488" frameHeight="663"/>
+	<SubTexture name="monster idle0004" x="2150" y="659" width="435" height="578" frameX="-47" frameY="-58" frameWidth="488" frameHeight="663"/>
+	<SubTexture name="monster idle0005" x="2585" y="659" width="435" height="597" frameX="-47" frameY="-39" frameWidth="488" frameHeight="663"/>
+	<SubTexture name="monster idle0006" x="3020" y="659" width="488" height="650" frameX="0" frameY="-9" frameWidth="488" frameHeight="663"/>
+	<SubTexture name="monster idle0007" x="3020" y="659" width="488" height="650" frameX="0" frameY="-9" frameWidth="488" frameHeight="663"/>
+	<SubTexture name="monster idle0008" x="3508" y="659" width="488" height="657" frameX="0" frameY="-2" frameWidth="488" frameHeight="663"/>
+	<SubTexture name="monster idle0009" x="3508" y="659" width="488" height="657" frameX="0" frameY="-2" frameWidth="488" frameHeight="663"/>
+	<SubTexture name="monster idle0010" x="0" y="1316" width="488" height="659" frameX="0" frameY="0" frameWidth="488" frameHeight="663"/>
+	<SubTexture name="monster idle0011" x="0" y="1316" width="488" height="659" frameX="0" frameY="0" frameWidth="488" frameHeight="663"/>
+	<SubTexture name="monster idle0012" x="488" y="1316" width="488" height="659" frameX="0" frameY="0" frameWidth="488" frameHeight="663"/>
+	<SubTexture name="monster idle0013" x="488" y="1316" width="488" height="659" frameX="0" frameY="0" frameWidth="488" frameHeight="663"/>
+	<SubTexture name="monster idle0014" x="488" y="1316" width="488" height="659" frameX="0" frameY="0" frameWidth="488" frameHeight="663"/>
+</TextureAtlas>

@@ -104,7 +104,7 @@
 	"image": "characters/bfPixel",
 	"position": [
 		-160,
-		30
+		150
 	],
 	"healthicon": "bf-pixel",
 	"flip_x": true,

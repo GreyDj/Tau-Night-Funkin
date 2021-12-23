@@ -1,0 +1,10 @@
+{
+	"idle_anim": "monster idle",
+	"confirm_anim": "monster idle",
+	"position": [
+		194,
+		155
+	],
+	"scale": 0.55,
+	"image": "Monster"
+}
